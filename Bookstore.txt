@@ -1,0 +1,6 @@
+id      price  bookname a name  count  rakno
+-----------------------------------------------------
+
+10	1000	abc	aaa	5	100
+20	350	pqr	ppp	9	105
+12	400	sss	ppp	3	106

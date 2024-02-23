@@ -1,0 +1,1 @@
+FILE *fp;  //file pointer 
